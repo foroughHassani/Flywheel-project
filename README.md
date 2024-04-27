@@ -5,7 +5,6 @@ Data: The original dataset data
 
 
 The question is :
-
 According to the data, how many searches does the keyword with rank 1 receive for each search engine?
 
 Summary of findings:
